@@ -1,16 +1,7 @@
-base_route: '/home/rauljcuesta/master/proyecto_master'
+base_route: '/home/rauljcuesta/master/repo_tfm'
 config_rouse: '/config'
 data_route: '/data'
-data_ganvam_route: '/ganvam'
 data_dgt_route: '/dgt'
-files_ganvam:
-  - car_list_reverse_2015.csv.tar.gz
-  - car_list_reverse_2016.csv.tar.gz
-  - car_list_reverse_2017.csv.tar.gz
-  - car_list_reverse_2018.csv.tar.gz
-  - car_list_reverse_2019.csv.tar.gz
-  - car_list_reverse_2020.csv.tar.gz
-  - car_list_reverse_2021.csv.tar.gz
 files_dgt:
   - export_anual_trf_2015.csv.tar.gz
   - export_anual_trf_2016.csv.tar.gz
@@ -19,7 +10,6 @@ files_dgt:
   - export_anual_trf_2019.csv.tar.gz
   - export_anual_trf_2020.csv.tar.gz
   - export_anual_trf_2021.csv.tar.gz
-csv_ganvam_separator : '^'
 csv_dgt_separator : '^'
 url_web_storage: 'https://storage.cloud.google.com/rauljcuesta_kschool_proyecto_master'
 fields_dgt_originals:
@@ -127,17 +117,3 @@ fields_dgt_process:
   - AUTONOMÍA_VEHÍCULO_ELÉCTRICO
   - year_Q
   - Q_query
-fields_ganvam_process:
-  - Q_query
-  - year_Q
-  - make
-  - model
-  - fuel
-  - year_query
-  - modelo
-  - valor
-  - cilindrada
-  - puertas
-  - potencia
-  - startyear
-  - endyear
