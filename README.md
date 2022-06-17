@@ -1,4 +1,4 @@
-# Estudio ventas turismos
+# Estudio venta turismos
 
 El siguiente repositorio contiene el trabajo de fin de máster de Raúl José de la Cuesta García, alumno de la edición número 30 del máster de Data Science de la escuela KSCHOOL.
 
