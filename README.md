@@ -27,7 +27,7 @@ Los archivos necesario se pueden descargar en las siguientes url's:
 Nuevos, Drive:
 https://drive.google.com/file/d/1DKGyoHhpML8QQdw7lWrDykSlrv-pQuS-/view?usp=sharing
 https://drive.google.com/file/d/1bp3G0bq7vDki_khs1LWzE6wmABopjo5d/view?usp=sharing
-https://drive.google.com/file/d/1DKGyoHhpML8QQdw7lWrDykSlrv-pQuS-/view?usp=sharing
+https://drive.google.com/file/d/1x-BdMzWd_8Q41KMVP1k7mRvVgnDSDR6q/view?usp=sharing
 https://drive.google.com/file/d/1MPDZ6jdn8L0ZLzDdUXKUrqyylAxiumSO/view?usp=sharing
 https://drive.google.com/file/d/1kCttyU-TfzYQerrbSHxfjy0kr29AIiIa/view?usp=sharing
 https://drive.google.com/file/d/1Vpbqm2WmwGRJEfZLOTqprhdcRDCW9gDp/view?usp=sharing
