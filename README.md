@@ -1,3 +1,7 @@
+# IMPORTANTE (2022-06-24 18:45)
+Se han añadido al repositorio una copia de los notebook 3 y 4 con las celdas ejecutadas y nuevos enlaces en el README con los datos ya preprocesados, subidos al Drive y con permisos. Son las únicas modificaciones hechas.
+
+
 # Estudio venta turismos
 
 El siguiente repositorio contiene el trabajo de fin de máster de Raúl José de la Cuesta García, alumno de la edición número 30 del máster de Data Science de la escuela KSCHOOL.
@@ -20,6 +24,17 @@ La memoria es el archivo "memoria_raul_j_cuesta_mercado_turismo_kschool_ds_30.pd
 ## Descarga de datos
 Los archivos necesario se pueden descargar en las siguientes url's:
 
+Nuevos, Drive:
+https://drive.google.com/file/d/1DKGyoHhpML8QQdw7lWrDykSlrv-pQuS-/view?usp=sharing
+https://drive.google.com/file/d/1bp3G0bq7vDki_khs1LWzE6wmABopjo5d/view?usp=sharing
+https://drive.google.com/file/d/1DKGyoHhpML8QQdw7lWrDykSlrv-pQuS-/view?usp=sharing
+https://drive.google.com/file/d/1MPDZ6jdn8L0ZLzDdUXKUrqyylAxiumSO/view?usp=sharing
+https://drive.google.com/file/d/1kCttyU-TfzYQerrbSHxfjy0kr29AIiIa/view?usp=sharing
+https://drive.google.com/file/d/1Vpbqm2WmwGRJEfZLOTqprhdcRDCW9gDp/view?usp=sharing
+https://drive.google.com/file/d/19usRP8-NNFX9eCmkcnD5R6iObQJ-haLP/view?usp=sharing
+
+
+No tienen permisos
 https://storage.cloud.google.com/rauljcuesta_kschool_proyecto_master/dgt/export_anual_trf_2015.csv.tar.gz?authuser=0
 https://storage.cloud.google.com/rauljcuesta_kschool_proyecto_master/dgt/export_anual_trf_2016.csv.tar.gz?authuser=0
 https://storage.cloud.google.com/rauljcuesta_kschool_proyecto_master/dgt/export_anual_trf_2017.csv.tar.gz?authuser=0
